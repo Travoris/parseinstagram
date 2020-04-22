@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-GIF img src='http://i.imgur.com/link/to/your/gif/file.gif
+GIF img src='http://i.imgur.com/link/to/your/gif/file.gif'
 
 ## Notes
 
